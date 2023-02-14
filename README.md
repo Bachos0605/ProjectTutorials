@@ -60,7 +60,7 @@
 * **Postman:**
 ![API 6A](https://github.com/Bachos0605/ProjectTutorials/blob/main/Project_Tutorials/src/main/resources/Static/10..png)
 
-* **OracleDB:**  
+* **H2 DB:**  
 ![API 6B](https://github.com/Bachos0605/ProjectTutorials/blob/main/Project_Tutorials/src/main/resources/Static/11..png)
 
 
@@ -69,7 +69,7 @@
 * **Postman:**
 ![API 7A](https://github.com/Bachos0605/ProjectTutorials/blob/main/Project_Tutorials/src/main/resources/Static/12..png)
 
-* **OracleDB:**  
+* **H2 DB:**  
 ![API 7B](https://github.com/Bachos0605/ProjectTutorials/blob/main/Project_Tutorials/src/main/resources/Static/13..png)
 
 
@@ -79,7 +79,7 @@
 * **Postman:**
 ![API 8A](https://github.com/Bachos0605/ProjectTutorials/blob/main/Project_Tutorials/src/main/resources/Static/14..png)
 
-* **OracleDB:**  
+* **H2 DB:**  
 ![API 8B](https://github.com/Bachos0605/ProjectTutorials/blob/main/Project_Tutorials/src/main/resources/Static/15..png)
 
 
