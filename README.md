@@ -41,7 +41,11 @@
 
 ##### Test trên tầng Controller
 * **Xây dựng test trên tầng Controller:**
-![9A](https://github.com/Bachos0605/Project22_2/blob/main/Project_Tutorials/src/main/resources/Static/I.2.7.png)
+![9A](https://github.com/Bachos0605/ProjectTutorials/blob/main/Updated_Project_Tutorials/src/main/resources/Static/U1.png)
+![9B](https://github.com/Bachos0605/ProjectTutorials/blob/main/Updated_Project_Tutorials/src/main/resources/Static/U2.png)
+![9C](https://github.com/Bachos0605/ProjectTutorials/blob/main/Updated_Project_Tutorials/src/main/resources/Static/U3.png)
+* **Kết quả:**
+![9D](https://github.com/Bachos0605/ProjectTutorials/blob/main/Updated_Project_Tutorials/src/main/resources/Static/U4.png)
 
 ### Phần 2: Actuator, Devtools
 
